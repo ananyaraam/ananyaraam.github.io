@@ -1,4 +1,4 @@
-a, h1 {
+a, h1, h2 {
   font-family: "AR One Sans";
   color: #141118;
 }
@@ -22,6 +22,10 @@ a:hover {
 
 h1 {
   font-size: 120px;
+}
+
+h2 {
+  font-size: 80px;
 }
 
 .header {
