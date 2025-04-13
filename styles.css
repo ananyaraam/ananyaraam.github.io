@@ -39,3 +39,7 @@ h2 {
 body {
   margin: 24px;
 }
+
+#LinkedIn {
+  background-image: url('images/linkedin-round-icon-hover.svg');
+}
