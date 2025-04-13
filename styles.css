@@ -3,7 +3,8 @@ a, h1 {
 }
 
 header {
-  margin: 16px;
+  margin: 24px;
+  text-align: right;
 }
 
 a {
