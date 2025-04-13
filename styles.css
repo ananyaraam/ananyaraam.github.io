@@ -2,11 +2,13 @@ a, h1 {
   font-family: "AR One Sans";
 }
 
+header {
+  margin: 16px;
+}
+
 a {
   padding: 40px;
-  margin: 40px;
-  top: 16px;
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
   color: #0A0A0A;
   text-decoration: none;
