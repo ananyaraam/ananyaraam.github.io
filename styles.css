@@ -35,3 +35,7 @@ h2 {
 .header:hover {
   color: blue;
 }
+
+body {
+  margin: 24px;
+}
