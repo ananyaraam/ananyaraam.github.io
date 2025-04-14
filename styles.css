@@ -36,8 +36,20 @@ body {
   margin: 24px;
 }
 
+#Email:hover {
+  content: url('images/email-round-solid-icon-hover.svg');
+  height: 32px;
+  width: 32px;
+}
+
 #LinkedIn:hover {
   content: url('images/linkedin-round-icon-hover.svg');
+  height: 32px;
+  width: 32px;
+}
+
+#GitHub:hover {
+  content: url('images/github-icon-hover.svg');
   height: 32px;
   width: 32px;
 }
