@@ -37,7 +37,7 @@ body {
 }
 
 #LinkedIn:hover {
-  background-image: url('images/linkedin-round-icon-hover.svg');
+  content: url('images/linkedin-round-icon-hover.svg');
   height: 32px;
   width: 32px;
 }
