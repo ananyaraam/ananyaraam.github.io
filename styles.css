@@ -53,3 +53,8 @@ body {
   height: 32px;
   width: 32px;
 }
+
+#subtitle {
+  color: #C6D7FF;
+  background-color: #231F45;
+}
