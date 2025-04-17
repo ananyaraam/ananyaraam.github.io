@@ -3,7 +3,7 @@ a, h1, h2 {
   color: #141118;
 }
 
-header {
+.navbar {
   margin: 24px;
   text-align: right;
 }
