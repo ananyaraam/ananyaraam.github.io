@@ -1,4 +1,4 @@
-a, h1, h2 {
+a, h1, h2, p {
   font-family: "AR One Sans", "Verdana", sans-serif;
   color: #141118;
 }
@@ -26,6 +26,10 @@ h1 {
 
 h2 {
   font-size: 80px;
+}
+
+p {
+  font-size: 24px;
 }
 
 .header {
