@@ -60,6 +60,10 @@ body {
   float: right;
 }
 
+#Logo {
+  padding: 10px 5px 15px 0px;
+}
+
 #subtitle {
   color: #C6D7FF;
   background-color: #231F45;
