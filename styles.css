@@ -5,7 +5,6 @@ a, h1, h2 {
 
 .header {
   margin: 24px;
-  text-align: right;
 }
 
 a {
@@ -65,6 +64,10 @@ body {
   background-color: #231F45;
 }
 
-#Logo {
+#left {
   text-align: left;
+}
+
+#right {
+  text-align: right;
 }
