@@ -5,6 +5,7 @@ a, h1, h2 {
 
 .header {
   margin: 24px;
+  margin-top: 8px;
 }
 
 a {
@@ -58,13 +59,4 @@ body {
 #subtitle {
   color: #C6D7FF;
   background-color: #231F45;
-}
-
-#Logo {
-  text-align: left;
-}
-
-.header {
-  text-align: right;
-  margin-top: 8px;
 }
