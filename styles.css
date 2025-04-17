@@ -3,7 +3,7 @@ a, h1, h2 {
   color: #141118;
 }
 
-.navbar {
+.header {
   margin: 24px;
   text-align: right;
 }
@@ -63,4 +63,8 @@ body {
 #subtitle {
   color: #C6D7FF;
   background-color: #231F45;
+}
+
+#Logo {
+  text-align: left;
 }
