@@ -74,6 +74,10 @@ body {
   background-color: #231F45;
 }
 
+#name {
+  float: right;
+}
+
 #Headshot {
   width: 160px;
   height: 160px;
