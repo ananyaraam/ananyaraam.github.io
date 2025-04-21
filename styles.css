@@ -76,6 +76,7 @@ body {
 
 #Face {
   position: relative;
+  float: right;
 }
 
 #Headshot {
@@ -83,13 +84,11 @@ body {
   height: 160px;
   border-radius: 100px;
   object-fit: cover;
-  float: right;
   position: absolute;
 }
 
 #Text-ring {
   width: 200px;
   height: 200px;
-  float: right;
   position: absolute;
 }
