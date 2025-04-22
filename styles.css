@@ -43,6 +43,10 @@ body {
   padding: 24px;
 }
 
+.body {
+  margin: 24px;
+}
+
 #Email:hover {
   content: url('images/email-round-solid-icon-hover.svg');
   height: 32px;
