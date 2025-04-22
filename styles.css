@@ -12,6 +12,10 @@ header, body {
   margin: 24px;
 }
 
+body {
+  padding: 24px;
+}
+
 a {
   padding: 40px;
   font-size: 20px;
