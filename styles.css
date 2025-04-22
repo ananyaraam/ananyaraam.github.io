@@ -84,12 +84,10 @@ body {
   height: 160px;
   border-radius: 100px;
   object-fit: cover;
-  position: absolute;
   margin: auto;
 }
 
 #Text-ring {
   width: 200px;
   height: 200px;
-  position: absolute;
 }
