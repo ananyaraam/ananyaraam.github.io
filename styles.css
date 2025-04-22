@@ -91,5 +91,6 @@ body {
   width: 200px;
   height: 200px;
   position: absolute;
-  left: -10px;
+  left: -16px;
+  top: -8px;
 }
