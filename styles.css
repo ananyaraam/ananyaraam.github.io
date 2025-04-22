@@ -61,9 +61,6 @@ body {
   width: 32px;
 }
 
-.header {
-}
-
 #Logo {
   padding: 10px 5px 15px 0px;
   float: left;
@@ -93,4 +90,8 @@ body {
   position: absolute;
   left: -18px;
   top: -18px;
+}
+
+#Bio {
+  
 }
