@@ -4,9 +4,12 @@ a, h1, h2, h6 {
 }
 
 header {
-  margin: 24px;
   margin-top: 8px;
   text-align: right;
+}
+
+header, body {
+  margin: 24px;
 }
 
 a {
@@ -37,14 +40,6 @@ p {
   font-family: "Montserrat", "Verdana", sans-serif;
   font-size: 24px;
   color: #141118;
-}
-
-body {
-  padding: 24px;
-}
-
-.body {
-  margin: 24px;
 }
 
 #Email:hover {
@@ -94,8 +89,4 @@ body {
   position: absolute;
   left: -18px;
   top: -18px;
-}
-
-#Bio {
-  
 }
