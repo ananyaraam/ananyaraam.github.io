@@ -93,14 +93,14 @@ p {
 }
 
 #Job, #School {
-  margin-top: -80px;
+  margin-top: -60px;
   margin-left: 80px;
 }
 
 #Job {
-  width: 400px;
+  width: 800px;
 }
 
 #School {
-  width: 400px;
+  width: 800px;
 }
