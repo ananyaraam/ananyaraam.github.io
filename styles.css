@@ -101,7 +101,11 @@ p {
   width: 680px;
 }
 
+#University {
+  margin-top: 40px;
+}
+
 #School {
   margin-top: -30px;
-  width: 800px;
+  width: 760px;
 }
