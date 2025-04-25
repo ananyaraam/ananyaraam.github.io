@@ -102,10 +102,11 @@ p {
 }
 
 #University {
+  float: left;
   margin-top: 40px;
 }
 
 #School {
   margin-top: -30px;
-  width: 760px;
+  width: 780px;
 }
