@@ -92,6 +92,7 @@ p {
   top: -18px;
 }
 
-#Bio {
-  width: 560px;
+#Job, #School {
+  float: left;
+  left: 80px;
 }
