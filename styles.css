@@ -5,7 +5,7 @@ a, h1, h2, h6 {
 
 header {
   text-align: right;
-  margin-top: -0.2%;
+  margin-top: -0.1%;
 }
 
 body {
@@ -112,5 +112,5 @@ p {
 }
 
 .pdf {
-  margin-top: 2%;
+  margin-top: 3%;
 }
