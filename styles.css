@@ -19,7 +19,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+a:not(:active):hover {
   color: #4F4AB5;
   font-weight: 600;
 }
