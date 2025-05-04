@@ -24,6 +24,10 @@ a:hover {
   font-weight: 600;
 }
 
+.active {
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 104px;
 }
@@ -63,6 +67,10 @@ p {
 #Logo {
   padding: 10px 5px 15px 0px;
   float: left;
+}
+
+.icon {
+  display: none;
 }
 
 #subtitle {
