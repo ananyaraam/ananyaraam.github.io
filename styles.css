@@ -101,9 +101,6 @@ p {
   .topnav.responsive a.link {
     display: inline-block;
   }
-  .topnav.responsive a.right {
-    background-color: #C6D7FF;
-  }
 }
 
 #subtitle {
