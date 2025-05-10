@@ -84,7 +84,6 @@ p {
 @media screen and (max-width: 600px) {
   .topnav.responsive {
     position: relative;
-    background-color: #C6D7FF;
   }
   .topnav.responsive a.icon {
     position: absolute;
@@ -101,6 +100,9 @@ p {
   }
   .topnav.responsive a.link {
     display: inline-block;
+  }
+  .topnav.responsive a.right {
+    background-color: #C6D7FF;
   }
 }
 
