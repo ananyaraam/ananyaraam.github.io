@@ -96,6 +96,9 @@ p {
   .topnav.responsive a.nav {
     margin-top: 8%;
   }
+  .topnav.responsive a.link {
+    display: inline-block;
+  }
 }
 
 #subtitle {
