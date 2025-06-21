@@ -105,6 +105,7 @@ p {
 
 marquee {
   margin: 0px !important;
+  padding: 0px !important;
 }
 
 #subtitle {
