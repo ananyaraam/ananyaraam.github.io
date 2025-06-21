@@ -103,11 +103,6 @@ p {
   }
 }
 
-marquee {
-  margin: 0px !important;
-  padding: 0px !important;
-}
-
 #subtitle {
   color: #C6D7FF;
   background-color: #231F45;
