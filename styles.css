@@ -103,10 +103,14 @@ p {
   }
 }
 
+marquee {
+  margin: 0px !important;
+}
+
 #subtitle {
   color: #C6D7FF;
   background-color: #231F45;
-  font-size: 104px;
+  font-size: 96px;
   font-family: "AR One Sans", "Verdana", sans-serif;
 }
 
