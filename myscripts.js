@@ -6,3 +6,13 @@ function myFunction() {
     x.className = "topnav";
   }
 }
+
+$(function () {
+    $('.marquee').marquee({
+        duration: 5000,
+         duplicated: true,
+         gap: 00, 
+         direction: 'left',
+         pauseOnHover: true
+    });
+});
