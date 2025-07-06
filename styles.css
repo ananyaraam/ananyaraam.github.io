@@ -110,6 +110,11 @@ p {
   font-family: "AR One Sans", "Verdana", sans-serif;
 }
 
+marquee {
+  width: 100%;
+  overflow: hidden;
+}
+
 #Face {
   position: relative;
   float: right;
