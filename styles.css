@@ -4,7 +4,8 @@ a, h1, h2, h6 {
 }
 
 header {
-  text-align: right;
+  text-align: left;
+  background-color: #141118;
 }
 
 body {
@@ -66,7 +67,6 @@ p {
 
 #Logo {
   padding: 10px 5px 15px 0px;
-  float: left;
 }
 
 .icon {
