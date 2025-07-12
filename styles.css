@@ -3,6 +3,10 @@ a, h1, h2, h6 {
   color: #141118;
 }
 
+h1, h2, h6 {
+  color: #141118;
+}
+
 header {
   text-align: left;
   background-color: #141118;
@@ -18,10 +22,11 @@ a {
   font-size: 20px;
   text-align: center;
   text-decoration: none;
+  color: #ffffff;
 }
 
 a:not(:active):hover {
-  color: #4F4AB5;
+  color: #ECD6FF;
   font-weight: 600;
 }
 
