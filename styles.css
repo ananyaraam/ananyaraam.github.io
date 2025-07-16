@@ -57,11 +57,11 @@ p {
 }
 
 .nav-links {
-  display: inline-block;
+  display: inline;
 }
 
 .nav-icons {
-  display: inline-block;
+  display: inline;
   float: right;
 }
 
