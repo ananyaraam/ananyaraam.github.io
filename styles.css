@@ -57,11 +57,11 @@ p {
 }
 
 .nav-links {
-  display: inline;
+  display: inline-block;
 }
 
 .nav-icons {
-  display: inline;
+  display: inline-block;
   float: right;
 }
 
@@ -84,7 +84,7 @@ p {
 }
 
 #Logo {
-  display: block;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
 }
