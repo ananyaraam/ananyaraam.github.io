@@ -106,7 +106,7 @@ p {
     right: 0;
     top: 0;
   }
-  .topnav.responsive div a {
+  .topnav.responsive div {
     float: none;
     display: block;
     text-align: right;
