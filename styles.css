@@ -89,8 +89,8 @@ p {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav a img:not(#Logo) {display: none;}
-  .topnav a.left {display: none;}
+  .topnav div.nav-links {display: none;}
+  .topnav div.nav-icons {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
