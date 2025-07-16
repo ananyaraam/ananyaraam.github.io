@@ -56,7 +56,12 @@ p {
   color: #141118;
 }
 
-.link {
+.nav-links {
+  display: block;
+}
+
+.nav-icons {
+  display: block;
   float: right;
 }
 
