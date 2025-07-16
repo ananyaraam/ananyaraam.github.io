@@ -60,10 +60,6 @@ p {
   float: right;
 }
 
-.left {
-  padding-bottom: 1%;
-}
-
 #Email:hover {
   content: url('images/email-round-solid-icon-hover.svg');
   height: 32px;
