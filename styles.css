@@ -106,15 +106,15 @@ p {
     right: 0;
     top: 0;
   }
-  .topnav.responsive a {
+  .topnav.responsive div a {
     float: none;
     display: block;
     text-align: right;
   }
-  .topnav.responsive a.nav {
+  .topnav.responsive div a.nav {
     margin-top: 8%;
   }
-  .topnav.responsive a.link {
+  .topnav.responsive div a.link {
     display: inline-block;
   }
 }
