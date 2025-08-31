@@ -62,13 +62,13 @@ p {
 .nav-links {
   float: left;
   display: flex;
-  margin-right: 10%;
+  margin-right: 20%;
 }
 
 .nav-icons {
   float: right;
   display: flex;
-  margin-left: 10%;
+  margin-left: 20%;
 }
 
 .right {
