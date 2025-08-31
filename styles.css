@@ -61,10 +61,14 @@ p {
 
 .nav-links {
   float: left;
+  display: flex;
+  margin-right: 10%;
 }
 
 .nav-icons {
   float: right;
+  display: flex;
+  margin-left: 10%;
 }
 
 .right {
