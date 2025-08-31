@@ -69,8 +69,8 @@ p {
   margin-left: 10%;
 }
 
-.left {
-  margin-left: 1%;
+.left:not(:first-child) {
+  margin-left: 32%;
 }
 
 #Email:hover {
