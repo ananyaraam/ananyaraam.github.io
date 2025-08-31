@@ -60,13 +60,13 @@ p {
 
 .nav-links {
   display: flex;
-  padding-right: 28%;
+  padding-right: 22%;
 }
 
 .nav-icons {
   display: flex;
-  padding-left: 28%;
-  margin-left: 14%;
+  padding-left: 24%;
+  margin-left: 10%;
 }
 
 #Email:hover {
