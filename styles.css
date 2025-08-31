@@ -62,6 +62,7 @@ p {
 
 .nav-icons {
   float: right;
+  display: flex;
 }
 
 #Email:hover {
