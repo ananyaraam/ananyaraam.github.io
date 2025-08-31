@@ -4,12 +4,12 @@ a, h1, h2, h6 {
 }
 
 h1, h2, h6 {
-  color: rgb(20, 17, 24, 0.5);
+  color: #141118;
 }
 
 header {
   text-align: left;
-  background-color: #141118;
+  background-color: rgb(20, 17, 24, 0.5);
 }
 
 body {
