@@ -32,7 +32,7 @@ a {
 }
 
 a:not(:active):hover {
-  color: #ECD6FF;
+  color: #C6D7FF;
   font-weight: 600;
 }
 
