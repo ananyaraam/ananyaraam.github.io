@@ -73,6 +73,10 @@ p {
   margin-left: 32%;
 }
 
+.right:not(:last-child) {
+  margin-right: 32%;
+}
+
 #Email:hover {
   content: url('images/email hover.svg');
   height: 32px;
