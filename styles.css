@@ -74,19 +74,19 @@ p {
 }
 
 #Email:hover {
-  content: url('images/email-round-solid-icon-hover.svg');
+  content: url('images/email hover.svg');
   height: 32px;
   width: 32px;
 }
 
 #LinkedIn:hover {
-  content: url('images/linkedin-round-icon-hover.svg');
+  content: url('images/linkedin hover.svg');
   height: 32px;
   width: 32px;
 }
 
 #GitHub:hover {
-  content: url('images/github-icon-hover.svg');
+  content: url('images/github hover.svg');
   height: 32px;
   width: 32px;
 }
