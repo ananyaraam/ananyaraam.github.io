@@ -167,6 +167,7 @@ p {
 marquee {
   width: 100%;
   overflow: hidden;
+  animation: marquee 5s linear infinite;
 }
 
 @keyframes marquee {
