@@ -60,13 +60,13 @@ p {
 
 .nav-links {
   display: flex;
-  padding-right: 22%;
+  padding-right: 16%;
 }
 
 .nav-icons {
   display: flex;
-  padding-left: 24%;
-  margin-left: 10%;
+  padding-left: 16%;
+  margin-left: 8%;
 }
 
 .left:not(:first-child) {
@@ -74,7 +74,7 @@ p {
 }
 
 .right:not(:last-child) {
-  margin-right: 40%;
+  margin-right: 50%;
 }
 
 #Email:hover {
