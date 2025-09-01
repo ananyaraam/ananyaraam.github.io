@@ -147,6 +147,8 @@ p {
     margin-right: 24%;
     margin-top: 2%;
     margin-bottom: 2%;
+    margin-left: 0%;
+    padding-left: 0%;
   }
   .topnav.responsive div a.left:first-child {
     margin-left: 32%;
