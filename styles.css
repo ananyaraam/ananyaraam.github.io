@@ -60,13 +60,14 @@ p {
 
 .nav-links {
   display: flex;
-  padding-right: 20%;
+  padding-right: 24%;
 }
 
 .nav-icons {
   display: flex;
-  padding-left: 16%;
+  padding-left: 12%;
   margin-left: 8%;
+  margin-right: 9%;
 }
 
 .left:not(:first-child) {
