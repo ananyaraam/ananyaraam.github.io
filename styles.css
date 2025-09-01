@@ -169,6 +169,11 @@ marquee {
   overflow: hidden;
 }
 
+@keyframes marquee {
+  0% { left: 0; }
+  100% { left: -100%; }
+}
+
 #Face {
   position: relative;
   float: right;
