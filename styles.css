@@ -135,7 +135,7 @@ p {
     right: 0;
     top: 4%;
   }
-  .topnav.responsive {
+  .topnav.responsive div {
     display: block;
     text-align: right;
   }
