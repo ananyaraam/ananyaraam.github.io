@@ -125,6 +125,11 @@ p {
   .topnav.responsive {
     position: relative;
   }
+  .topnav.responsive a#Logo {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
