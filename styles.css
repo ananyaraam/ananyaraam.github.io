@@ -182,7 +182,7 @@ p {
   animation: marquee 5s linear infinite;
 }
 
-.marquee span {
+.marquee h6 {
   float: left;
   width: 50%;
   color: #ECD6FF;
