@@ -133,7 +133,7 @@ p {
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
-    top: 0;
+    top: 1%;
   }
   .topnav.responsive div {
     float: right;
