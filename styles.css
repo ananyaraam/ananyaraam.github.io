@@ -74,7 +74,7 @@ p {
 }
 
 .right:not(:last-child) {
-  margin-right: 32%;
+  margin-right: 40%;
 }
 
 #Email:hover {
