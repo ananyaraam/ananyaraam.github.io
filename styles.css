@@ -135,16 +135,18 @@ p {
     right: 0;
     top: 4%;
   }
-  .topnav.responsive div {
-    float: right;
+  .topnav.responsive {
     display: block;
     text-align: right;
   }
   .topnav.responsive div.nav-links {
-    margin-top: 8%;
+    margin-left: 24%;
   }
   .topnav.responsive div.nav-icons {
-    display: inline-block;
+    display: grid;
+    margin-right: 16%;
+    margin-top: 2%;
+    margin-bottom: 2%;
   }
 }
 
