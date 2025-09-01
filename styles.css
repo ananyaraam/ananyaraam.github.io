@@ -164,33 +164,10 @@ p {
   font-family: "AR One Sans", "Verdana", sans-serif;
 }
 
-.marquee {
+marquee {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background-color: #231F45;
-}
-
-.marquee div {
-  display: block;
-  width: 200%;
-  height: 30px;
-
-  position: absolute;
-  overflow: hidden;
-
-  animation: marquee 5s linear infinite;
-}
-
-.marquee h6 {
-  float: left;
-  width: 50%;
-  color: #ECD6FF;
-}
-
-@keyframes marquee {
-  0% { left: 0; }
-  100% { left: -100%; }
 }
 
 #Face {
