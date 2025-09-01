@@ -131,14 +131,14 @@ p {
     top: 0;
   }
   .topnav.responsive div {
-    float: none;
+    float: right;
     display: block;
     text-align: right;
   }
-  .topnav.responsive div a.nav {
+  .topnav.responsive div.nav-links {
     margin-top: 8%;
   }
-  .topnav.responsive div a.link {
+  .topnav.responsive div.nav-icons {
     display: inline-block;
   }
 }
