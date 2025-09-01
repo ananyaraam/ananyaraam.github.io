@@ -112,8 +112,9 @@ p {
     float: right;
     display: block;
   }
-  .topnav {
-    align-items: left;
+  .topnav a#Logo {
+    float: left;
+    display: block;
   }
 }
 
