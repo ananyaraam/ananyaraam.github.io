@@ -112,12 +112,14 @@ p {
     float: right;
     display: block;
   }
+  .topnav {
+    align-items: left;
+  }
 }
 
 @media screen and (max-width: 600px) {
   .topnav.responsive {
     position: relative;
-    align-items: left;
   }
   .topnav.responsive a.icon {
     position: absolute;
