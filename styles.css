@@ -148,6 +148,9 @@ p {
     margin-top: 2%;
     margin-bottom: 2%;
   }
+  .topnav.responsive div a.left(:first-child) {
+    margin-left: 32%;
+  }
 }
 
 #subtitle {
