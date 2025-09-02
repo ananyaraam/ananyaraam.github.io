@@ -1,4 +1,4 @@
-a, h1, h2, h3, h6 {
+a, h1, h2, h4, h6 {
   font-family: "AR One Sans", "Verdana", sans-serif;
 }
 
@@ -48,9 +48,10 @@ h2 {
   font-size: 80px;
 }
 
-h3 {
-  font-size: 56px;
+h4 {
+  font-size: 32px;
   color: #ECD6FF;
+  font-weight: 400;
 }
 
 h6 {
