@@ -1,6 +1,5 @@
-a, h1, h2, h6 {
+a, h1, h2, h3, h6 {
   font-family: "AR One Sans", "Verdana", sans-serif;
-  color: #141118;
 }
 
 h1, h2, h6 {
@@ -47,6 +46,11 @@ h1 {
 
 h2 {
   font-size: 80px;
+}
+
+h3 {
+  font-size: 56px;
+  color: #ECD6FF;
 }
 
 h6 {
@@ -158,13 +162,7 @@ p {
 }
 
 #subtitle {
-  color: #C6D7FF;
   background-color: #231F45;
-  font-size: 48px;
-  font-family: "AR One Sans", "Verdana", sans-serif;
-}
-
-marquee {
   width: 100%;
   overflow: hidden;
   position: relative;
