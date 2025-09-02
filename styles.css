@@ -52,7 +52,7 @@ h4 {
   font-size: 40px;
   color: #ECD6FF;
   font-weight: 400;
-  margin: 1.5% 5%;
+  margin: 1.5%;
 }
 
 h6 {
@@ -168,8 +168,7 @@ p {
   width: 100%;
   overflow: hidden;
   position: relative;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 
 #Face {
