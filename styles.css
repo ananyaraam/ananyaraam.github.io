@@ -2,7 +2,7 @@ a, h1, h2, h3, h4, h5, h6 {
   font-family: "AR One Sans", "Verdana", sans-serif;
 }
 
-h1, h2, h3, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   color: #141118;
 }
 
@@ -52,11 +52,8 @@ h3 {
   font-size: 56px;
 }
 
-h4 {
+h4{
   font-size: 40px;
-  color: #ECD6FF;
-  font-weight: 400;
-  margin: 1.5%;
 }
 
 h5 {
@@ -177,6 +174,12 @@ p {
   overflow: hidden;
   position: relative;
   text-align: center;
+}
+
+#subtext {
+  color: #ECD6FF;
+  font-weight: 400;
+  margin: 1.5%;
 }
 
 #Face {
