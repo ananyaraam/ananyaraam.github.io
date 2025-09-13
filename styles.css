@@ -205,7 +205,7 @@ p {
   visibility: hidden;
 }
 
-#Text-ring:hover {
+#Headshot:hover + #Text-ring {
   visibility: visible;
 }
 
