@@ -205,10 +205,6 @@ p {
   visibility: hidden;
 }
 
-#Headshot:hover + #Text-ring {
-  visibility: visible;
-}
-
 #Headshot:hover {
   width: 280px;
   height: 280px;
