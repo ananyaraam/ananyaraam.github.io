@@ -195,8 +195,8 @@ p {
   object-fit: cover;
   margin: auto;
   transition: 
-    width 1s,
-    height 2s;
+    width 500ms,
+    height 500ms;
 }
 
 #Headshot:hover {
