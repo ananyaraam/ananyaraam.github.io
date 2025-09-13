@@ -202,11 +202,11 @@ p {
   position: absolute;
   left: -34px;
   top: -34px;
-  display: hidden;
+  visibility: hidden;
 }
 
 #Headshot:hover ~ #Text-ring {
-  display: block;
+  visibility: visible;
 }
 
 #Headshot:hover {
