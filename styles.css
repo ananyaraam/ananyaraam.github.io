@@ -194,6 +194,14 @@ p {
   border-radius: 100px;
   object-fit: cover;
   margin: auto;
+  transition: 
+    width 1s,
+    height 2s;
+}
+
+#Headshot:hover {
+  width: 280px;
+  height: 280px;
 }
 
 #Text-ring {
@@ -203,11 +211,6 @@ p {
   left: -34px;
   top: -34px;
   visibility: hidden;
-}
-
-#Headshot:hover {
-  width: 280px;
-  height: 280px;
 }
 
 #Job, #School {
