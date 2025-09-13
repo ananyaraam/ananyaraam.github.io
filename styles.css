@@ -205,7 +205,7 @@ p {
   display: none;
 }
 
-#Headshot:hover + #Text-ring {
+#Headshot:hover ~ #Text-ring {
   display: block;
 }
 
