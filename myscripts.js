@@ -17,6 +17,6 @@ $(function () {
     });
 });
 
-function makevisible() {
-    document.getElementById('Text-ring').style.visibility = 'visible';
+function visibility(value) {
+    document.getElementById('Text-ring').style.visibility = value;
 }
