@@ -16,3 +16,7 @@ $(function () {
          pauseOnHover: true
     });
 });
+
+function makevisible() {
+    document.getElementById('Text-ring').style.visibility = 'visible';
+}
