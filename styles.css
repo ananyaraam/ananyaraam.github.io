@@ -196,11 +196,6 @@ p {
   margin: auto;
 }
 
-#Headshot:hover {
-  width: 280px;
-  height: 280px;
-}
-
 #Text-ring {
   width: 350px;
   height: 350px;
@@ -210,8 +205,13 @@ p {
   display: none;
 }
 
-#Text-ring {
+#Text-ring:hover {
   display: block;
+}
+
+#Text-ring:hover + #Headshot {
+  width: 280px;
+  height: 280px;
 }
 
 #Job, #School {
