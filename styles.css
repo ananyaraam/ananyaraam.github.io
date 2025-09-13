@@ -205,11 +205,11 @@ p {
   display: none;
 }
 
-#Text-ring:hover {
+#Headshot:hover + #Text-ring {
   display: block;
 }
 
-#Text-ring:hover + #Headshot {
+#Headshot:hover {
   width: 280px;
   height: 280px;
 }
