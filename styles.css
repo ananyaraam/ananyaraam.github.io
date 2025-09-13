@@ -183,22 +183,22 @@ p {
   margin: 1.5%;
 }
 
-#Face {
+#Location {
   position: relative;
   float: right;
 }
 
 #Headshot {
-  width: 160px;
-  height: 160px;
+  width: 280px;
+  height: 280px;
   border-radius: 100px;
   object-fit: cover;
   margin: auto;
 }
 
 #Text-ring {
-  width: 200px;
-  height: 200px;
+  width: 350px;
+  height: 350px;
   position: absolute;
   left: -18px;
   top: -18px;
