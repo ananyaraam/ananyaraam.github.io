@@ -42,6 +42,7 @@ a:not(:active):hover {
 left::before {
   content: '';
   position: absolute;
+  display: block;
   background: rgb(245 245 245);
   bottom: 0;
   left: 50%;
