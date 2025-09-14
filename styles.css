@@ -55,7 +55,8 @@ left:hover::before {
   width: 100%;
 }
 
-.active {
+left.active::before {
+  width: 100%;
   /*text-decoration: underline;*/
 }
 
@@ -108,6 +109,10 @@ p {
 
 .right:not(:last-child) {
   margin-right: 64%;
+}
+
+#Email, #LinkedIn, #GitHub {
+  transition: content ease-in-out 300ms;
 }
 
 #Email:hover {
