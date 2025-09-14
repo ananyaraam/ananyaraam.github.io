@@ -43,7 +43,7 @@ a:not(:active):hover {
   content: '';
   position: absolute;
   display: block;
-  background: #C6D7FF;
+  background: #FFFFFF;
   bottom: 0;
   left: 50%;
   height: 2px;
