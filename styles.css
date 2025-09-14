@@ -40,7 +40,7 @@ a:not(:active):hover {
 }
 
 left::before {
-  content: "";
+  content: '';
   position: absolute;
   background: rgb(245 245 245);
   bottom: 0;
