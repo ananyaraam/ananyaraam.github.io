@@ -31,12 +31,12 @@ a {
   color: #ffffff;
   position: relative;
   display: block;
+  transition: font-weight 300ms;
 }
 
 a:not(:active):hover {
   color: #C6D7FF;
   font-weight: 600;
-  padding: 0.5% 1.5%;
 }
 
 left::before {
@@ -48,7 +48,7 @@ left::before {
   height: 3px;
   width: 0;
   transform: translateX(-50%);
-  transition:all ease-in-out 300ms;
+  transition: width ease-in-out 300ms;
 }
 
 left:hover::before {
