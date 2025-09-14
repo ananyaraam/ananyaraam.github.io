@@ -212,6 +212,7 @@ p {
 #Location {
   position: relative;
   float: right;
+  margin: 0% 8%;
 }
 
 #Headshot {
@@ -240,6 +241,15 @@ p {
   left: -34px;
   top: -34px;
   visibility: hidden;
+  transform: rotate(0deg);
+  transition: 
+    visibility 350ms,
+    transform 350ms;
+}
+
+#Headshot:hover + #Text-ring {
+  visibility: visible;
+  transform: rotate(360deg);
 }
 
 #Job, #School {
