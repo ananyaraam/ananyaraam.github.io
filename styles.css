@@ -36,6 +36,7 @@ a {
 a:not(:active):hover {
   color: #C6D7FF;
   font-weight: 600;
+  padding: 0.5% 1.5%;
 }
 
 left::before {
