@@ -46,7 +46,7 @@ a:not(:active):hover {
   background: rgb(245 245 245);
   bottom: 0;
   left: 50%;
-  height: 3px;
+  height: 2px;
   width: 0;
   transform: translateX(-50%);
   transition: width ease-in-out 300ms;
