@@ -219,6 +219,8 @@ p {
   border-radius: 100px;
   object-fit: cover;
   margin: auto;
+  left: 50%;
+  transform: translateX(-50%);
   transition: 
     width 500ms,
     height 500ms;
