@@ -43,7 +43,6 @@ a:not(:active):hover {
   content: '';
   position: absolute;
   display: block;
-  background: #FFFFFF;
   bottom: 0;
   left: 50%;
   height: 2px;
@@ -54,10 +53,12 @@ a:not(:active):hover {
 
 .left:hover::before {
   width: 100%;
+  background: #C6D7FF;
 }
 
 .left.active::before {
   width: 100%;
+  background: #FFFFFF;
   /*text-decoration: underline;*/
 }
 
