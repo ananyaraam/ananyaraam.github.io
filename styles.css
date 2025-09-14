@@ -230,7 +230,7 @@ p {
     height 500ms;*/
 }
 
-#Headshot:hover {
+#Face:hover #Headshot {
   transform: scale(1.167);
 }
 
@@ -243,11 +243,11 @@ p {
   visibility: hidden;
   transform: rotate(0deg);
   transition: 
-    visibility ease-in-out 3s,
+    visibility ease-in-out 2s,
     transform ease-in-out 20s;
 }
 
-#Headshot:hover + #Text-ring {
+#Face:hover #Text-ring {
   visibility: visible;
   transform: rotate(-360deg);
 }
