@@ -235,8 +235,8 @@ p {
 }
 
 #Text-ring {
-  width: 350px;
-  height: 350px;
+  width: 450px;
+  height: 450px;
   position: absolute;
   left: -54px;
   top: -54px;
@@ -251,7 +251,7 @@ p {
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(359deg);
+    transform: rotate(-359deg);
   }
 }
 
