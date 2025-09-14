@@ -219,17 +219,17 @@ p {
   border-radius: 100px;
   object-fit: cover;
   margin: auto;
+  transition: transform 300ms;
   /*left: 50%;
   top: 50%;
   transform: translateX(-50%);
   transform: translateY(-50%);
-  transition: 
     width 500ms,
     height 500ms;*/
 }
 
 #Headshot:hover {
-  transform: scale(1.05);
+  transform: scale(1.167);
 }
 
 #Text-ring {
