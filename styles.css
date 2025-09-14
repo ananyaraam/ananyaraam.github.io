@@ -209,10 +209,14 @@ p {
   margin: 1.5%;
 }
 
+#thanks {
+  display: inline-block;
+}
+
 #Location {
   position: relative;
   float: right;
-  margin: 0% 8%;
+  margin: 5% 8%;
 }
 
 #Headshot {
