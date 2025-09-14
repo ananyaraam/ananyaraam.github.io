@@ -39,7 +39,7 @@ a:not(:active):hover {
   font-weight: 600;
 }
 
-left::before {
+.left::before {
   content: '';
   position: absolute;
   display: block;
@@ -52,11 +52,11 @@ left::before {
   transition: width ease-in-out 300ms;
 }
 
-left:hover::before {
+.left:hover::before {
   width: 100%;
 }
 
-left.active::before {
+.left.active::before {
   width: 100%;
   /*text-decoration: underline;*/
 }
