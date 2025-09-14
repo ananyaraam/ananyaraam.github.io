@@ -238,8 +238,8 @@ p {
   width: 350px;
   height: 350px;
   position: absolute;
-  left: -34px;
-  top: -34px;
+  left: -54px;
+  top: -54px;
   visibility: hidden;
   transform: rotate(0deg);
   transition: 
@@ -249,7 +249,7 @@ p {
 
 #Headshot:hover + #Text-ring {
   visibility: visible;
-  transform: rotate(360deg);
+  transform: rotate(-360deg);
 }
 
 #Job, #School {
