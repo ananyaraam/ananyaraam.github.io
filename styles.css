@@ -244,7 +244,7 @@ p {
   transform: rotate(0deg);
   transition: 
     visibility 350ms,
-    transform 350ms;
+    transform 3s;
 }
 
 #Headshot:hover + #Text-ring {
