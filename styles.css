@@ -247,7 +247,7 @@ p {
   height: 450px;
   position: absolute;
   left: -11%;
-  top: -16%;
+  top: -14%;
   visibility: hidden;
   transform: rotate(0deg);
   transition: 
@@ -287,7 +287,7 @@ p {
   width: 760px;
 }
 
-#Dog, #Work, #City {
+#Dog, #Remote, #City {
   display: flex;
   flex-direction: row;
   padding-bottom: 4%;
