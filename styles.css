@@ -223,8 +223,8 @@ p {
 }
 
 #Headshot {
-  width: 240px;
-  height: 240px;
+  width: 264px;
+  height: 264px;
   border-radius: 100px;
   object-fit: cover;
   margin: auto;
@@ -238,7 +238,7 @@ p {
 }
 
 #Face:hover #Headshot {
-  transform: scale(1.167);
+  transform: scale(1.06);
 }
 
 #Text-ring {
