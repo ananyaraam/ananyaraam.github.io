@@ -291,3 +291,7 @@ p {
   display: flex;
   flex-direction: row;
 }
+
+#Globe, #Pin, #Paw {
+  margin-right: 2%;
+}
