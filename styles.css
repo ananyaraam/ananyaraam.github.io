@@ -219,6 +219,7 @@ p {
   position: relative;
   float: right;
   margin: 5% 8%;
+  padding: 2% 4%;
   background-color: #C6D7FF;
 }
 
@@ -245,8 +246,8 @@ p {
   width: 450px;
   height: 450px;
   position: absolute;
-  left: -104px;
-  top: -104px;
+  left: 2%;
+  top: -6%;
   visibility: hidden;
   transform: rotate(0deg);
   transition: 
@@ -264,7 +265,7 @@ p {
 
 #Face:hover #Text-ring {
   visibility: visible;
-  animation: rotation 20s infinite linear;
+  animation: rotation 16s infinite linear;
 }
 
 #Job, #School {
