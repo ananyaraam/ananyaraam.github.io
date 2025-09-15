@@ -247,7 +247,7 @@ p {
   height: 450px;
   position: absolute;
   left: -11%;
-  top: -17%;
+  top: -16%;
   visibility: hidden;
   transform: rotate(0deg);
   transition: 
@@ -290,8 +290,9 @@ p {
 #Dog, #Work, #City {
   display: flex;
   flex-direction: row;
+  padding-bottom: 4%;
 }
 
 #Globe, #Pin, #Paw {
-  margin-right: 2%;
+  margin-right: 5%;
 }
