@@ -285,3 +285,8 @@ p {
   margin-top: 40px;
   width: 760px;
 }
+
+#Dog, #Work, #City {
+  display: flex;
+  flex-direction: row;
+}
